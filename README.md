@@ -2,7 +2,7 @@
 # Hi, I'm Richard Owolabi
 
 Aspiring **Cybersecurity Analyst** passionate about helping protect organisations and individuals through technical solutions, threat detection, and hands-on projects. 
-Currently preparing for the **CompTIA Security+** exam (June 2025) and learning **AWS** to deepen my understanding of cloud security. 
+Security+ and ISC2 CC certified and learning **AWS** to deepen my understanding of cloud security. 
 I build and learn while working full-time - because I love this stuff!!
 
 ---
